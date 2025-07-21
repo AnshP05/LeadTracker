@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Lead Tracker",
+  "version": "1.0",
+  "description": "Save and manage your leads easily.",
+  "action": {
+    "default_popup": "src/index.html",
+    "default_icon": "src/dollarsign.jpeg"
+  }
+}
