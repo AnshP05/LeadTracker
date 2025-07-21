@@ -1,5 +1,6 @@
-import "./styles.css";
+import "./index.css";
 
-document.getElementById("app").innerHTML = `
-<h1>Hello JavaScript!</h1>
-`;
+let inputBtn = document.getDocumentById("input-btn");
+inputBtn.addEventListener("click", function () {
+  console.log("Button clicked");
+});
