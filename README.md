@@ -6,7 +6,7 @@ Lead Tracker is a lightweight and easy-to-use Chrome extension that helps you **
 
 ## 📸 Preview
 
-![Extension Screenshot](src/LeadTrackerSS) 
+![Extension Screenshot](src/LeadTrackerSS.png) 
 
 ---
 
