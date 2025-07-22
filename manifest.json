@@ -6,5 +6,8 @@
   "action": {
     "default_popup": "src/index.html",
     "default_icon": "src/dollarsign.jpeg"
-  }
+  }, 
+  "permissions": [
+    "tabs"
+  ]
 }
